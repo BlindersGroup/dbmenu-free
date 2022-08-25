@@ -22,6 +22,10 @@
  * @license   Commercial license
  */
 
+#header {
+    position: relative;
+    z-index: inherit;
+}
 .dbmenu {
     display:block;
     position:relative;
